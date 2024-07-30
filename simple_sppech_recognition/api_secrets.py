@@ -1,0 +1,2 @@
+# API Key for AssemblyAI
+API_KEY_ASSEMBLYAI = "5b97652518d6457b8ca58a509afec50a"
